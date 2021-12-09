@@ -1,0 +1,223 @@
+File: Gene_0092	Clade: All_Taxa
+Base frequencies of taxa:
+Taxon	p(A)	p(C)	p(G)	p(T)	p(N)	p(Y)	p(R)	p(W)	p(S)	p(K)	p(M)	p(D)	p(V)	p(H)	p(I)	p(E)	p(L)	p(Q)	p(F)	p(P)	N sites
+Hemithiris_psittacea	0.1221	0.0094	0.0423	0.0563	0.0329	0.0188	0.0610	0.0047	0.0610	0.0610	0.0376	0.0516	0.0563	0.0282	0.0798	0.0469	0.1315	0.0469	0.0282	0.0235	213
+Daphnia_pulex	0.1080	0.0094	0.0610	0.0657	0.0376	0.0282	0.0469	0.0047	0.0516	0.0704	0.0235	0.0563	0.0751	0.0141	0.0563	0.0329	0.1268	0.0657	0.0423	0.0235	213
+Drosophila_melanogaster	0.1080	0.0094	0.0469	0.0516	0.0329	0.0329	0.0469	0.0047	0.0516	0.0704	0.0423	0.0610	0.0751	0.0188	0.0563	0.0376	0.1174	0.0610	0.0469	0.0282	213
+Beroe_abyssicola	0.1048	0.0190	0.0619	0.0619	0.0429	0.0381	0.0429	0.0000	0.0762	0.0524	0.0190	0.0571	0.0619	0.0286	0.0714	0.0381	0.1524	0.0333	0.0190	0.0190	210
+Coeloplana_astericola	0.1316	0.0105	0.0421	0.0421	0.0316	0.0421	0.0316	0.0000	0.0474	0.0737	0.0368	0.0737	0.0684	0.0368	0.0737	0.0474	0.1474	0.0263	0.0158	0.0211	190
+Dryodora_glandiformis	0.1048	0.0190	0.0667	0.0619	0.0238	0.0238	0.0714	0.0000	0.0714	0.0381	0.0143	0.0476	0.0571	0.0238	0.0714	0.0619	0.1524	0.0381	0.0381	0.0143	210
+Sycon_ciliatum	0.1080	0.0235	0.0516	0.0469	0.0235	0.0282	0.0704	0.0047	0.0423	0.0329	0.0235	0.0657	0.0563	0.0516	0.0657	0.0563	0.1268	0.0704	0.0329	0.0188	213
+Rhizopus_oryzae	0.1221	0.0141	0.0657	0.0563	0.0188	0.0141	0.0516	0.0047	0.0610	0.0563	0.0376	0.0563	0.0376	0.0235	0.0610	0.0657	0.1596	0.0235	0.0423	0.0282	213
+Ephydatia_muelleri																					
+Hydra_viridissima	0.1359	0.0097	0.0340	0.0437	0.0340	0.0243	0.0340	0.0000	0.0583	0.0825	0.0534	0.0485	0.0388	0.0146	0.0777	0.0680	0.1311	0.0340	0.0583	0.0194	206
+Mertensiidae_sp	0.1243	0.0216	0.0378	0.0595	0.0216	0.0216	0.0541	0.0000	0.0649	0.0432	0.0054	0.0703	0.0541	0.0378	0.0757	0.0486	0.1622	0.0595	0.0270	0.0108	185
+Chondrilla_nucula	0.1392	0.0206	0.0670	0.0567	0.0155	0.0361	0.0515	0.0052	0.0515	0.0619	0.0567	0.0464	0.0412	0.0258	0.0722	0.0619	0.1237	0.0309	0.0155	0.0206	194
+Euplokamis_dunlapae	0.0952	0.0190	0.0619	0.0619	0.0429	0.0286	0.0524	0.0095	0.0571	0.0476	0.0238	0.0524	0.0714	0.0238	0.0667	0.0619	0.1381	0.0429	0.0286	0.0143	210
+Petromyzon_marinus	0.1174	0.0094	0.0563	0.0329	0.0282	0.0188	0.0516	0.0094	0.0610	0.0798	0.0423	0.0563	0.0845	0.0282	0.0563	0.0423	0.1080	0.0423	0.0469	0.0282	213
+Crella_elegans																					
+Trichoplax_adhaerens	0.1019	0.0194	0.0583	0.0534	0.0194	0.0194	0.0728	0.0049	0.0534	0.0485	0.0388	0.0680	0.0728	0.0291	0.0825	0.0340	0.1117	0.0485	0.0437	0.0194	206
+Vallicula_sp	0.1238	0.0190	0.0429	0.0619	0.0333	0.0333	0.0476	0.0048	0.0524	0.0524	0.0333	0.0762	0.0667	0.0429	0.0476	0.0381	0.1476	0.0238	0.0286	0.0238	210
+Pleurobrachia_atlantica	0.1238	0.0238	0.0571	0.0619	0.0381	0.0333	0.0429	0.0000	0.0667	0.0524	0.0238	0.0524	0.0476	0.0286	0.0714	0.0429	0.1429	0.0429	0.0333	0.0143	210
+Bolocera_tuediae																					
+Allomyces_macrogynus	0.1362	0.0094	0.0516	0.0704	0.0188	0.0282	0.0610	0.0047	0.0423	0.0469	0.0188	0.0657	0.0704	0.0282	0.0610	0.0376	0.1455	0.0423	0.0282	0.0329	213
+Hormathia_digitata																					
+Eunicella_verrucosa	0.1174	0.0047	0.0469	0.0610	0.0235	0.0282	0.0751	0.0047	0.0469	0.0657	0.0282	0.0610	0.0516	0.0282	0.0563	0.0516	0.1408	0.0376	0.0469	0.0235	213
+Sphaeroforma_arctica	0.1174	0.0141	0.0469	0.0610	0.0188	0.0329	0.0469	0.0000	0.0798	0.0516	0.0282	0.0657	0.0563	0.0235	0.0610	0.0516	0.1408	0.0376	0.0282	0.0376	213
+Nematostella_vectensis	0.1080	0.0235	0.0563	0.0469	0.0329	0.0423	0.0610	0.0000	0.0423	0.0704	0.0282	0.0704	0.0610	0.0188	0.0845	0.0376	0.1268	0.0423	0.0329	0.0141	213
+Amoebidium_parasiticum	0.1408	0.0235	0.0423	0.0610	0.0329	0.0516	0.0610	0.0000	0.0376	0.0516	0.0329	0.0798	0.0516	0.0094	0.0798	0.0329	0.1174	0.0516	0.0188	0.0235	213
+Tubulanus_polymorphus	0.1221	0.0094	0.0516	0.0329	0.0282	0.0235	0.0423	0.0047	0.0751	0.0751	0.0423	0.0563	0.0939	0.0376	0.0563	0.0282	0.1080	0.0423	0.0376	0.0329	213
+Amphimedon_queenslandica	0.1024	0.0146	0.0537	0.0537	0.0390	0.0341	0.0537	0.0098	0.0683	0.0732	0.0195	0.0537	0.0683	0.0195	0.0634	0.0390	0.1366	0.0390	0.0488	0.0098	205
+Capitella_teleta	0.0843	0.0241	0.0602	0.0301	0.0482	0.0301	0.0542	0.0060	0.0783	0.0602	0.0301	0.0542	0.0964	0.0422	0.0904	0.0241	0.0723	0.0602	0.0482	0.0060	166
+Hydra_vulgaris	0.1327	0.0190	0.0332	0.0379	0.0284	0.0190	0.0284	0.0000	0.0616	0.0806	0.0521	0.0521	0.0616	0.0190	0.0664	0.0664	0.1327	0.0332	0.0569	0.0190	211
+Ircinia_fasciculata																					
+Salpingoeca_rosetta																					
+Lottia_gigantea	0.0939	0.0047	0.0516	0.0563	0.0376	0.0282	0.0469	0.0047	0.0751	0.0516	0.0376	0.0469	0.0610	0.0188	0.1033	0.0469	0.1221	0.0657	0.0329	0.0141	213
+Spongilla_alba																					
+Rossella_fibulata																					
+Latrunculia_apicalis																					
+Oscarella_carmela	0.1080	0.0094	0.0610	0.0469	0.0094	0.0188	0.0516	0.0094	0.0704	0.0516	0.0423	0.0563	0.0798	0.0188	0.0563	0.0469	0.1362	0.0657	0.0423	0.0188	213
+Mnemiopsis_leidyi																					
+Platygyra_carnosa	0.1226	0.0236	0.0566	0.0472	0.0142	0.0283	0.0708	0.0047	0.0802	0.0377	0.0094	0.0519	0.0708	0.0236	0.0566	0.0519	0.1604	0.0330	0.0330	0.0236	212
+Ministeria_vibrans																					
+Periphylla_periphylla																					
+Saccoglossus_kowalevskii																					
+Hyalonema_populiferum	0.0981	0.0093	0.0748	0.0561	0.0093	0.0514	0.0514	0.0047	0.0467	0.0467	0.0140	0.0701	0.0841	0.0374	0.0748	0.0561	0.1168	0.0234	0.0421	0.0327	214
+Homo_sapiens	0.1127	0.0141	0.0657	0.0469	0.0188	0.0282	0.0610	0.0094	0.0563	0.0657	0.0188	0.0610	0.0657	0.0235	0.0892	0.0423	0.1127	0.0516	0.0329	0.0235	213
+Kirkpatrickia_variolosa																					
+Nanomia_bijuga	0.1321	0.0252	0.0440	0.0377	0.0440	0.0314	0.0314	0.0063	0.0692	0.0566	0.0126	0.0503	0.0566	0.0252	0.0818	0.0440	0.1447	0.0377	0.0440	0.0252	159
+Aiptasia_pallida	0.1080	0.0235	0.0516	0.0469	0.0329	0.0516	0.0516	0.0000	0.0516	0.0610	0.0376	0.0610	0.0845	0.0141	0.0751	0.0469	0.0939	0.0423	0.0376	0.0282	213
+Priapulus_caudatus	0.1315	0.0188	0.0469	0.0376	0.0235	0.0235	0.0704	0.0094	0.0610	0.0563	0.0235	0.0516	0.0704	0.0188	0.0657	0.0469	0.1408	0.0563	0.0282	0.0188	213
+Physalia_physalis	0.1174	0.0047	0.0469	0.0516	0.0329	0.0329	0.0516	0.0000	0.0704	0.0657	0.0282	0.0563	0.0751	0.0282	0.0704	0.0469	0.1127	0.0423	0.0516	0.0141	213
+Spizellomyces_punctatus	0.1502	0.0094	0.0516	0.0563	0.0235	0.0329	0.0423	0.0000	0.0469	0.0469	0.0235	0.0469	0.0563	0.0235	0.0610	0.0563	0.1596	0.0516	0.0329	0.0282	213
+Abylopsis_tetragona	0.1221	0.0094	0.0469	0.0563	0.0376	0.0423	0.0516	0.0000	0.0704	0.0469	0.0423	0.0516	0.0516	0.0282	0.0657	0.0376	0.1221	0.0516	0.0516	0.0141	213
+Pseudospongosorites_suberitoides																					
+Monosiga_ovata																					
+Capsaspora_owczarzaki																					
+Hydra_oligactis																					
+Strongylocentrotus_purpuratus	0.1127	0.0141	0.0563	0.0516	0.0188	0.0282	0.0751	0.0000	0.0704	0.0657	0.0563	0.0516	0.0563	0.0188	0.0704	0.0423	0.1033	0.0516	0.0423	0.0141	213
+Corticium_candelabrum	0.1042	0.0104	0.0625	0.0521	0.0208	0.0260	0.0365	0.0104	0.0625	0.0573	0.0417	0.0573	0.0938	0.0156	0.0521	0.0365	0.1406	0.0573	0.0365	0.0260	192
+Agalma_elegans	0.1080	0.0094	0.0516	0.0610	0.0329	0.0329	0.0469	0.0000	0.0704	0.0563	0.0329	0.0657	0.0469	0.0282	0.0704	0.0376	0.1315	0.0423	0.0516	0.0235	213
+Pleurobrachia_bachei																					
+Aurelia_aurita	0.1143	0.0114	0.0457	0.0686	0.0286	0.0171	0.0343	0.0000	0.0457	0.0743	0.0171	0.0743	0.0629	0.0229	0.0914	0.0571	0.1371	0.0343	0.0457	0.0171	175
+Sycon_coactum																					
+Acropora_digitifera	0.1080	0.0235	0.0563	0.0610	0.0235	0.0423	0.0423	0.0000	0.0657	0.0751	0.0329	0.0423	0.0986	0.0235	0.0516	0.0563	0.0986	0.0423	0.0376	0.0188	213
+Bolinopsis_infundibulum	0.1197	0.0282	0.0493	0.0423	0.0141	0.0211	0.0563	0.0000	0.0634	0.0563	0.0070	0.0563	0.0352	0.0352	0.0704	0.0493	0.1690	0.0704	0.0352	0.0211	142
+Tethya_wilhelma																					
+Sympagella_nux																					
+Mortierella_verticillata	0.0986	0.0141	0.0657	0.0516	0.0235	0.0235	0.0516	0.0094	0.0610	0.0610	0.0282	0.0704	0.0516	0.0188	0.0892	0.0516	0.1315	0.0423	0.0376	0.0188	213
+Aphrocallistes_vastus																					
+Lithobius_forficatus	0.1033	0.0094	0.0610	0.0657	0.0141	0.0282	0.0469	0.0047	0.0704	0.0751	0.0376	0.0657	0.0610	0.0282	0.0704	0.0376	0.1174	0.0423	0.0376	0.0235	213
+Craseoa_lathetica	0.1033	0.0094	0.0563	0.0423	0.0516	0.0423	0.0563	0.0000	0.0563	0.0563	0.0282	0.0469	0.0610	0.0282	0.0704	0.0469	0.1362	0.0423	0.0469	0.0188	213
+Danio_rerio	0.0939	0.0188	0.0516	0.0329	0.0376	0.0282	0.0704	0.0094	0.0704	0.0563	0.0329	0.0657	0.0704	0.0235	0.0845	0.0376	0.1080	0.0516	0.0376	0.0188	213
+Petrosia_ficiformis																					
+Mean	0.1150	0.0150	0.0534	0.0523	0.0281	0.0303	0.0527	0.0037	0.0607	0.0591	0.0307	0.0587	0.0647	0.0256	0.0699	0.0463	0.1300	0.0449	0.0376	0.0211	0.9519
+
+Chi-Square test of homogeneity of base frequencies across taxa:
+
+Taxon	p(A)	p(C)	p(G)	p(T)	p(N)	p(Y)	p(R)	p(W)	p(S)	p(K)	p(M)	p(D)	p(V)	p(H)	p(I)	p(E)	p(L)	p(Q)	p(F)	p(P)
+Hemithiris_psittaceaObserved	26	2	9	12	7	4	13	1	13	13	8	11	12	6	17	10	28	10	6	5
+Hemithiris_psittaceaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Daphnia_pulexObserved	23	2	13	14	8	6	10	1	11	15	5	12	16	3	12	7	27	14	9	5
+Daphnia_pulexExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Drosophila_melanogasterObserved	23	2	10	11	7	7	10	1	11	15	9	13	16	4	12	8	25	13	10	6
+Drosophila_melanogasterExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Beroe_abyssicolaObserved	22	4	13	13	9	8	9		16	11	4	12	13	6	15	8	32	7	4	4
+Beroe_abyssicolaExpected	24.17	3.19	11.19	10.94	5.92	6.34	11.00	0.78	12.75	12.41	6.38	12.33	13.57	5.42	14.72	9.72	27.36	9.47	7.90	4.43
+Coeloplana_astericolaObserved	25	2	8	8	6	8	6		9	14	7	14	13	7	14	9	28	5	3	4
+Coeloplana_astericolaExpected	21.87	2.89	10.13	9.90	5.36	5.74	9.96	0.70	11.53	11.23	5.78	11.15	12.27	4.90	13.32	8.80	24.76	8.57	7.14	4.01
+Dryodora_glandiformisObserved	22	4	14	13	5	5	15		15	8	3	10	12	5	15	13	32	8	8	3
+Dryodora_glandiformisExpected	24.17	3.19	11.19	10.94	5.92	6.34	11.00	0.78	12.75	12.41	6.38	12.33	13.57	5.42	14.72	9.72	27.36	9.47	7.90	4.43
+Sycon_ciliatumObserved	23	5	11	10	5	6	15	1	9	7	5	14	12	11	14	12	27	15	7	4
+Sycon_ciliatumExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Rhizopus_oryzaeObserved	26	3	14	12	4	3	11	1	13	12	8	12	8	5	13	14	34	5	9	6
+Rhizopus_oryzaeExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Ephydatia_muelleriObserved																				
+Ephydatia_muelleriExpected																				
+Hydra_viridissimaObserved	28	2	7	9	7	5	7		12	17	11	10	8	3	16	14	27	7	12	4
+Hydra_viridissimaExpected	23.71	3.13	10.98	10.73	5.81	6.22	10.79	0.76	12.50	12.17	6.26	12.09	13.31	5.31	14.44	9.54	26.84	9.29	7.75	4.35
+Mertensiidae_spObserved	23	4	7	11	4	4	10		12	8	1	13	10	7	14	9	30	11	5	2
+Mertensiidae_spExpected	21.29	2.81	9.86	9.64	5.22	5.59	9.69	0.68	11.23	10.93	5.62	10.86	11.95	4.77	12.97	8.57	24.11	8.34	6.96	3.90
+Chondrilla_nuculaObserved	27	4	13	11	3	7	10	1	10	12	11	9	8	5	14	12	24	6	3	4
+Chondrilla_nuculaExpected	22.33	2.95	10.34	10.11	5.47	5.86	10.17	0.72	11.78	11.47	5.90	11.39	12.53	5.01	13.60	8.98	25.28	8.75	7.29	4.09
+Euplokamis_dunlapaeObserved	20	4	13	13	9	6	11	2	12	10	5	11	15	5	14	13	29	9	6	3
+Euplokamis_dunlapaeExpected	24.17	3.19	11.19	10.94	5.92	6.34	11.00	0.78	12.75	12.41	6.38	12.33	13.57	5.42	14.72	9.72	27.36	9.47	7.90	4.43
+Petromyzon_marinusObserved	25	2	12	7	6	4	11	2	13	17	9	12	18	6	12	9	23	9	10	6
+Petromyzon_marinusExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Crella_elegansObserved																				
+Crella_elegansExpected																				
+Trichoplax_adhaerensObserved	21	4	12	11	4	4	15	1	11	10	8	14	15	6	17	7	23	10	9	4
+Trichoplax_adhaerensExpected	23.71	3.13	10.98	10.73	5.81	6.22	10.79	0.76	12.50	12.17	6.26	12.09	13.31	5.31	14.44	9.54	26.84	9.29	7.75	4.35
+Vallicula_spObserved	26	4	9	13	7	7	10	1	11	11	7	16	14	9	10	8	31	5	6	5
+Vallicula_spExpected	24.17	3.19	11.19	10.94	5.92	6.34	11.00	0.78	12.75	12.41	6.38	12.33	13.57	5.42	14.72	9.72	27.36	9.47	7.90	4.43
+Pleurobrachia_atlanticaObserved	26	5	12	13	8	7	9		14	11	5	11	10	6	15	9	30	9	7	3
+Pleurobrachia_atlanticaExpected	24.17	3.19	11.19	10.94	5.92	6.34	11.00	0.78	12.75	12.41	6.38	12.33	13.57	5.42	14.72	9.72	27.36	9.47	7.90	4.43
+Bolocera_tuediaeObserved																				
+Bolocera_tuediaeExpected																				
+Allomyces_macrogynusObserved	29	2	11	15	4	6	13	1	9	10	4	14	15	6	13	8	31	9	6	7
+Allomyces_macrogynusExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Hormathia_digitataObserved																				
+Hormathia_digitataExpected																				
+Eunicella_verrucosaObserved	25	1	10	13	5	6	16	1	10	14	6	13	11	6	12	11	30	8	10	5
+Eunicella_verrucosaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Sphaeroforma_arcticaObserved	25	3	10	13	4	7	10		17	11	6	14	12	5	13	11	30	8	6	8
+Sphaeroforma_arcticaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Nematostella_vectensisObserved	23	5	12	10	7	9	13		9	15	6	15	13	4	18	8	27	9	7	3
+Nematostella_vectensisExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Amoebidium_parasiticumObserved	30	5	9	13	7	11	13		8	11	7	17	11	2	17	7	25	11	4	5
+Amoebidium_parasiticumExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Tubulanus_polymorphusObserved	26	2	11	7	6	5	9	1	16	16	9	12	20	8	12	6	23	9	8	7
+Tubulanus_polymorphusExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Amphimedon_queenslandicaObserved	21	3	11	11	8	7	11	2	14	15	4	11	14	4	13	8	28	8	10	2
+Amphimedon_queenslandicaExpected	23.60	3.12	10.93	10.68	5.78	6.19	10.74	0.76	12.44	12.12	6.23	12.03	13.24	5.29	14.37	9.49	26.71	9.25	7.71	4.33
+Capitella_teletaObserved	14	4	10	5	8	5	9	1	13	10	5	9	16	7	15	4	12	10	8	1
+Capitella_teletaExpected	19.11	2.52	8.85	8.65	4.68	5.01	8.70	0.61	10.08	9.81	5.05	9.74	10.72	4.28	11.64	7.69	21.63	7.49	6.24	3.50
+Hydra_vulgarisObserved	28	4	7	8	6	4	6		13	17	11	11	13	4	14	14	28	7	12	4
+Hydra_vulgarisExpected	24.29	3.21	11.25	10.99	5.95	6.37	11.06	0.78	12.81	12.47	6.41	12.39	13.63	5.44	14.79	9.77	27.49	9.52	7.93	4.45
+Ircinia_fasciculataObserved																				
+Ircinia_fasciculataExpected																				
+Salpingoeca_rosettaObserved																				
+Salpingoeca_rosettaExpected																				
+Lottia_giganteaObserved	20	1	11	12	8	6	10	1	16	11	8	10	13	4	22	10	26	14	7	3
+Lottia_giganteaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Spongilla_albaObserved																				
+Spongilla_albaExpected																				
+Rossella_fibulataObserved																				
+Rossella_fibulataExpected																				
+Latrunculia_apicalisObserved																				
+Latrunculia_apicalisExpected																				
+Oscarella_carmelaObserved	23	2	13	10	2	4	11	2	15	11	9	12	17	4	12	10	29	14	9	4
+Oscarella_carmelaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Mnemiopsis_leidyiObserved																				
+Mnemiopsis_leidyiExpected																				
+Platygyra_carnosaObserved	26	5	12	10	3	6	15	1	17	8	2	11	15	5	12	11	34	7	7	5
+Platygyra_carnosaExpected	24.40	3.22	11.30	11.05	5.98	6.40	11.11	0.78	12.87	12.53	6.44	12.44	13.70	5.47	14.86	9.82	27.62	9.56	7.97	4.47
+Ministeria_vibransObserved																				
+Ministeria_vibransExpected																				
+Periphylla_periphyllaObserved																				
+Periphylla_periphyllaExpected																				
+Saccoglossus_kowalevskiiObserved																				
+Saccoglossus_kowalevskiiExpected																				
+Hyalonema_populiferumObserved	21	2	16	12	2	11	11	1	10	10	3	15	18	8	16	12	25	5	9	7
+Hyalonema_populiferumExpected	24.63	3.25	11.41	11.15	6.03	6.46	11.21	0.79	12.99	12.65	6.51	12.56	13.82	5.52	15.00	9.91	27.88	9.65	8.05	4.52
+Homo_sapiensObserved	24	3	14	10	4	6	13	2	12	14	4	13	14	5	19	9	24	11	7	5
+Homo_sapiensExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Kirkpatrickia_variolosaObserved																				
+Kirkpatrickia_variolosaExpected																				
+Nanomia_bijugaObserved	21	4	7	6	7	5	5	1	11	9	2	8	9	4	13	7	23	6	7	4
+Nanomia_bijugaExpected	18.30	2.42	8.47	8.28	4.48	4.80	8.33	0.59	9.65	9.40	4.83	9.33	10.27	4.10	11.15	7.36	20.72	7.17	5.98	3.35
+Aiptasia_pallidaObserved	23	5	11	10	7	11	11		11	13	8	13	18	3	16	10	20	9	8	6
+Aiptasia_pallidaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Priapulus_caudatusObserved	28	4	10	8	5	5	15	2	13	12	5	11	15	4	14	10	30	12	6	4
+Priapulus_caudatusExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Physalia_physalisObserved	25	1	10	11	7	7	11		15	14	6	12	16	6	15	10	24	9	11	3
+Physalia_physalisExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Spizellomyces_punctatusObserved	32	2	11	12	5	7	9		10	10	5	10	12	5	13	12	34	11	7	6
+Spizellomyces_punctatusExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Abylopsis_tetragonaObserved	26	2	10	12	8	9	11		15	10	9	11	11	6	14	8	26	11	11	3
+Abylopsis_tetragonaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Pseudospongosorites_suberitoidesObserved																				
+Pseudospongosorites_suberitoidesExpected																				
+Monosiga_ovataObserved																				
+Monosiga_ovataExpected																				
+Capsaspora_owczarzakiObserved																				
+Capsaspora_owczarzakiExpected																				
+Hydra_oligactisObserved																				
+Hydra_oligactisExpected																				
+Strongylocentrotus_purpuratusObserved	24	3	12	11	4	6	16		15	14	12	11	12	4	15	9	22	11	9	3
+Strongylocentrotus_purpuratusExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Corticium_candelabrumObserved	20	2	12	10	4	5	7	2	12	11	8	11	18	3	10	7	27	11	7	5
+Corticium_candelabrumExpected	22.10	2.92	10.23	10.00	5.41	5.80	10.06	0.71	11.65	11.35	5.84	11.27	12.40	4.95	13.46	8.89	25.02	8.66	7.22	4.05
+Agalma_elegansObserved	23	2	11	13	7	7	10		15	12	7	14	10	6	15	8	28	9	11	5
+Agalma_elegansExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Pleurobrachia_bacheiObserved																				
+Pleurobrachia_bacheiExpected																				
+Aurelia_auritaObserved	20	2	8	12	5	3	6		8	13	3	13	11	4	16	10	24	6	8	3
+Aurelia_auritaExpected	20.14	2.66	9.33	9.12	4.93	5.29	9.17	0.65	10.62	10.34	5.32	10.27	11.31	4.51	12.27	8.10	22.80	7.89	6.58	3.69
+Sycon_coactumObserved																				
+Sycon_coactumExpected																				
+Acropora_digitiferaObserved	23	5	12	13	5	9	9		14	16	7	9	21	5	11	12	21	9	8	4
+Acropora_digitiferaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Bolinopsis_infundibulumObserved	17	4	7	6	2	3	8		9	8	1	8	5	5	10	7	24	10	5	3
+Bolinopsis_infundibulumExpected	16.34	2.16	7.57	7.40	4.00	4.29	7.44	0.53	8.62	8.39	4.32	8.34	9.17	3.66	9.95	6.57	18.50	6.40	5.34	3.00
+Tethya_wilhelmaObserved																				
+Tethya_wilhelmaExpected																				
+Sympagella_nuxObserved																				
+Sympagella_nuxExpected																				
+Mortierella_verticillataObserved	21	3	14	11	5	5	11	2	13	13	6	15	11	4	19	11	28	9	8	4
+Mortierella_verticillataExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Aphrocallistes_vastusObserved																				
+Aphrocallistes_vastusExpected																				
+Lithobius_forficatusObserved	22	2	13	14	3	6	10	1	15	16	8	14	13	6	15	8	25	9	8	5
+Lithobius_forficatusExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Craseoa_latheticaObserved	22	2	12	9	11	9	12		12	12	6	10	13	6	15	10	29	9	10	4
+Craseoa_latheticaExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Danio_rerioObserved	20	4	11	7	8	6	15	2	15	12	7	14	15	5	18	8	23	11	8	4
+Danio_rerioExpected	24.52	3.24	11.35	11.10	6.01	6.43	11.16	0.79	12.93	12.59	6.48	12.50	13.76	5.50	14.93	9.86	27.75	9.61	8.01	4.49
+Petrosia_ficiformisObserved																				
+Petrosia_ficiformisExpected																				
+
+Chi-Square = 493.762199999999(df = 855), P = 1.00000
+NOTE: Given a significance level of 0.01 the composition is NOT significantly diviating from homogeneity!
+
+Warning: This test ignores correlation due to phylogenetic structure.

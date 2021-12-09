@@ -1,0 +1,103 @@
+diversity test
+obs div : 6.09364
+mean div: 6.16488 +/- 0.0181377
+z-score : 3.92797
+pp      : 0
+
+empirical convergence probability test
+obs     : 0.49539
+mean    : 0.488051 +/- 0.00158699
+z-score : 4.62431
+pp      : 0
+
+across-site compositional heterogeneity test
+obs     : 0.021755
+mean    : 0.0213222 +/- 8.1932e-05
+z-score : 5.28321
+pp      : 0
+
+compositional homogeneity test
+
+max heterogeneity across taxa
+obs comp : 0.00363364
+mean comp: 0.0012781 +/- 0.000442945
+z-score : 5.3179
+pp      : 0
+
+mean squared heterogeneity across taxa
+obs comp : 0.000520106
+mean comp: 0.000145285 +/- 1.04212e-05
+z-score : 35.9672
+pp      : 0
+
+taxonname	obs	mean pred	z-score	pp
+Drosophila_melanogaster	0.000105557	4.88831e-05	3.13619	0.00629371
+Aphrocallistes_vastus	0.000338136	5.65763e-05	13.2889	0
+Monosiga_ovata	0.00224578	0.000356153	14.8637	0
+Hydra_vulgaris	0.00034734	4.98271e-05	16.625	0
+Crella_elegans	0.000294034	0.000200037	1.35399	0.0958042
+Mnemiopsis_leidyi	0.000218405	9.96156e-05	3.2593	0.00699301
+Amphimedon_queenslandica	0.000238783	5.23559e-05	9.32392	0
+Allomyces_macrogynus	0.00363364	7.05361e-05	139.846	0
+Rossella_fibulata	0.000321807	7.8348e-05	8.61223	0
+Hormathia_digitata	0.000415507	0.000311116	0.967847	0.162937
+Physalia_physalis	0.000502163	0.000105462	11.0662	0
+Spizellomyces_punctatus	0.000509695	7.16534e-05	17.6172	0
+Euplokamis_dunlapae	0.00020973	0.000154549	0.970497	0.154545
+Craseoa_lathetica	0.000328519	7.85044e-05	8.71912	0
+Bolinopsis_infundibulum	0.000850121	0.000302351	5.28586	0
+Acropora_digitifera	0.000170828	6.11557e-05	5.08153	0
+Pleurobrachia_bachei	0.000296707	0.000133059	3.47128	0.0034965
+Amoebidium_parasiticum	0.00075839	6.57939e-05	28.6255	0
+Strongylocentrotus_purpuratus	8.39611e-05	6.12024e-05	1.00501	0.145455
+Beroe_abyssicola	0.00042149	7.26055e-05	13.153	0
+Hydra_viridissima	0.00031866	0.000171735	2.4206	0.0188811
+Bolocera_tuediae	0.000433358	0.000444414	-0.0721206	0.483916
+Aurelia_aurita	0.00041829	0.000235273	2.27592	0.0230769
+Mertensiidae_sp	0.000896733	0.00029136	5.98277	0
+Lithobius_forficatus	6.67242e-05	6.29554e-05	0.161376	0.375524
+Hemithiris_psittacea	0.000134037	5.87385e-05	3.53652	0.0027972
+Sycon_ciliatum	0.000400253	4.85872e-05	20.1777	0
+Ministeria_vibrans	0.00208389	0.000112956	47.7223	0
+Lottia_gigantea	0.000261814	5.11136e-05	11.5908	0
+Pseudospongosorites_suberitoides	0.000333728	0.000384371	-0.371647	0.617483
+Nanomia_bijuga	0.000389126	8.75913e-05	9.4831	0
+Hyalonema_populiferum	0.00189524	0.000285998	15.7087	0
+Eunicella_verrucosa	0.000113493	5.63583e-05	2.73266	0.0104895
+Ephydatia_muelleri	0.000160474	4.58645e-05	7.11205	0
+Latrunculia_apicalis	0.000132287	4.8156e-05	4.73955	0
+Tethya_wilhelma	0.00213468	0.00127196	1.91061	0.0482517
+Oscarella_carmela	0.000179677	5.65183e-05	6.08886	0
+Petrosia_ficiformis	0.00049367	0.000128594	8.3022	0
+Pleurobrachia_atlantica	0.000194397	6.73222e-05	5.31117	0
+Daphnia_pulex	0.000104918	5.21849e-05	2.81914	0.0111888
+Trichoplax_adhaerens	0.000357079	5.87509e-05	13.976	0
+Rhizopus_oryzae	0.000226205	8.36393e-05	4.69712	0.0027972
+Periphylla_periphylla	0.00127241	0.000379548	6.97388	0
+Petromyzon_marinus	0.000810698	0.000109008	18.7969	0
+Capitella_teleta	9.95258e-05	5.01892e-05	2.6924	0.0125874
+Agalma_elegans	0.000150534	5.77587e-05	4.27511	0
+Hydra_oligactis	0.000666408	0.000231781	5.24205	0
+Platygyra_carnosa	0.00024584	9.48229e-05	4.407	0
+Danio_rerio	0.000115594	4.14746e-05	4.78655	0
+Dryodora_glandiformis	0.000210235	9.44863e-05	3.41398	0.0034965
+Nematostella_vectensis	5.74491e-05	4.88556e-05	0.487679	0.274126
+Sympagella_nux	0.000564121	6.61734e-05	20.645	0
+Chondrilla_nucula	0.000135485	0.000114325	0.51781	0.258042
+Sycon_coactum	0.000455859	6.33252e-05	17.7477	0
+Vallicula_sp	0.000415618	0.000147589	5.07668	0
+Homo_sapiens	0.000198559	4.16762e-05	10.486	0
+Ircinia_fasciculata	0.000295293	0.000351942	-0.461668	0.647552
+Capsaspora_owczarzaki	0.00129064	5.72741e-05	60.8741	0
+Aiptasia_pallida	0.000190924	0.000122426	1.52161	0.0804196
+Coeloplana_astericola	0.000837884	0.000218207	7.98094	0
+Priapulus_caudatus	0.000600281	0.000277791	3.18557	0.00629371
+Abylopsis_tetragona	0.000278276	7.09198e-05	8.00693	0
+Spongilla_alba	0.000296098	0.000177871	1.78781	0.0531469
+Kirkpatrickia_variolosa	0.000143378	6.07535e-05	3.66953	0.00559441
+Tubulanus_polymorphus	0.000146211	5.8267e-05	3.9875	0.0034965
+Corticium_candelabrum	0.000330416	0.000107834	5.84208	0
+Saccoglossus_kowalevskii	0.000481579	0.000354739	1.01275	0.15035
+Salpingoeca_rosetta	0.00123353	6.49005e-05	48.5308	0
+Mortierella_verticillata	0.000300083	6.24806e-05	10.7833	0
+Sphaeroforma_arctica	0.000565157	0.00010928	11.4428	0

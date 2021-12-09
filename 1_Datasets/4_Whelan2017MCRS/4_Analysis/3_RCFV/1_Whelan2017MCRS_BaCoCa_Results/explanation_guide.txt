@@ -1,0 +1,33 @@
+summarized_frequencies.txt
+In the summary_frequency.txt file the columns provide the following data in this order:
+The first column is the partition or complete data set name followed by...
+...the name of the user defined clade,
+...the number of informative taxa in that partition and clade,
+...the frequencies of individual nucleotides or amino acids (e.g. p(A)),
+...the frequencies of classes of nucleotides or amino acids (e.g. p(AT) or p(polar)),
+...the character-state specific RCFV (csRCFV) values for individual nucleotides or amino acids or for corresponding classes in the same order as the frequencies  (see manual and manuscript),
+...for nucleotides only skew-values as described in the manual and manuscript,
+...results of the chi-square tests with the actual chi-square value and the degree of freedom as well as the corresponding p-value,
+      NOTE: For example, for a significance level of 0.01 each p-value below 0.01 means that the composition is significantly diviating from homogeneity!
+...the RCFV value for the complete data set or partition  (see manual and manuscript),
+...for nucleotides only the c-value of saturation including the corresponding mean p and ti/tv ratio as well as their standard deviations (see manual and manuscript),
+...the frequencies of defined sites for all informative taxa (p(sites)) as well as of GAPs, ambiguities, and missing data for all taxa,
+...the character-state specific RCFV (csRCFV) values for defined sites for all informative taxa as well as of GAPs, ambiguities, and missing data for all taxa in the same order as the frequencies  (see manual and manuscript),
+...the frequencies of all uninformative characters and of invariant sites for states and classes (see manual).
+
+taxon_basefrequencies_single_partions/*.summarized_taxon_base_frequencies.txt
+In this file the columns provide the following data in this order:
+The first column is the complete data set name followed by...
+...the name of the taxon,
+...the frequencies of individual nucleotides or amino acids (e.g. p(A)), of classes of nucleotides or amino acids (e.g. p(AT) or p(polar)) and of GAPs and ambiguities
+...the RCFV value for the complete data set or partition  (see manual and manuscript),
+...the absolute deviation from the mean for individual nucleotides or amino acids, for corresponding classes or for GAPs and ambiguities in the same order as the frequencies,
+...the frequencies of all uninformative characters.
+
+In the folders taxon_basefrequencies_all_partions, skew_values, and compositional bias taxon versus partition matrices are deposited for different parameters such as AT content, uninformative sites, or RCFV values. For a detailed discussion refer to the manual and the manuscript.
+
+In the folders missing_data_overlap and c_value_calculations taxon versus taxon matrices are deposited for different partitions and user-defined taxon subsets for negative and positive shared data overlap or uncorrected pairwise evolutionary distances and ti/tv ratio, respectively. For a detailed discussion refer to the manual and the manuscript.
+
+In the folders taxon_basefrequencies_all_partions, skew_values, missing_data_overlap, and compositional bias heat maps are generated. For a detailed discussion refer to the manual.
+
+In the chisquare_test_homogeneity_taxa folder, the chi-square analysis and the results are given as plain text files in the same format as used in PAUP.
