@@ -1,0 +1,130 @@
+diversity test
+obs div : 5.49654
+mean div: 5.53841 +/- 0.00512349
+z-score : 8.17262
+pp      : 0
+
+empirical convergence probability test
+obs     : 0.563606
+mean    : 0.552284 +/- 0.000553791
+z-score : 20.4443
+pp      : 0
+
+across-site compositional heterogeneity test
+obs     : 0.0250783
+mean    : 0.0244481 +/- 2.86966e-05
+z-score : 21.9604
+pp      : 0
+
+compositional homogeneity test
+
+max heterogeneity across taxa
+obs comp : 0.00116463
+mean comp: 0.000106096 +/- 2.61549e-05
+z-score : 40.4719
+pp      : 0
+
+mean squared heterogeneity across taxa
+obs comp : 0.000224477
+mean comp: 1.6347e-05 +/- 1.00007e-06
+z-score : 208.114
+pp      : 0
+
+taxonname	obs	mean pred	z-score	pp
+Aplysia_californica	3.97297e-05	5.37963e-06	16.4173	0
+Aphrocallistes_vastus	0.00024082	2.07078e-05	30.3477	0
+Hydra_magnipapillata	0.000411264	7.94422e-06	137.297	0
+Codosiga_hollandica_17	0.000413965	1.01514e-05	115.543	0
+Craspedacusta_sowerbyi	3.44172e-05	1.16757e-05	5.64717	0
+Pleurobrachia_species	6.12704e-05	5.59857e-06	23.8528	0
+Mnemiopsis_leidyi	0.00015988	6.68585e-06	61.1783	0
+Amphimedon_queenslandica	0.000215961	7.61592e-06	70.8352	0
+Oscarella_species	8.54386e-05	7.28694e-06	32.2524	0
+Spongilla_lacustris	6.35119e-05	1.19231e-05	12.0173	0
+Rossella_fibulata	0.000268665	1.47701e-05	56.3819	0
+Clathrina_coriacea	0.000223817	3.43112e-05	14.5938	0
+Salpingoeca_dolichothecata_16	0.000191701	7.1913e-06	72.0051	0
+Lucernariopsis_campanulata	3.94784e-05	1.02656e-05	7.89703	0
+Euplokamis_dunlapae	0.000188052	1.65884e-05	29.7656	0
+Liriope_tetraphylla	0.000104802	1.5311e-05	17.3898	0
+Clytia_hemisphaerica	0.000242924	1.08591e-05	67.784	0
+Bolinopsis_infundibulum	0.000223681	2.18465e-05	29.9979	0
+Strongylocentrotus_purpuratus	3.26135e-05	7.62992e-06	8.40118	0
+Beroe_abyssicola	0.000176987	8.22878e-06	62.7389	0
+Didymoeca_costata_10	4.72924e-05	7.91884e-06	13.9323	0
+Edwardsiella_lineata	1.90278e-05	9.24193e-06	3.4996	0
+Choanoeca_perplexa_11	0.000558181	1.06916e-05	159.397	0
+Plakina_jani	0.000158327	1.72894e-05	26.2875	0
+Acanthoeca_spectabilis_VA_02	0.000381428	1.02975e-05	112.15	0
+Aurelia_aurita	0.000134494	8.93892e-06	40.0611	0
+Abeoforma_whisleri	0.000282166	4.14336e-05	19.4689	0
+Sycon_ciliatum	0.000154834	1.98548e-05	19.6554	0
+Pennatula_rubra	0.000323433	9.8993e-05	7.25008	0
+Ministeria_vibrans	0.000479973	4.80953e-05	30.6381	0
+Hydractinia_polyclina	0.000161652	6.70987e-06	57.5641	0
+Gorgonia_ventalina	0.000146582	1.13805e-05	39.0543	0
+Nanomia_bijuga	0.000255486	7.43677e-06	89.4309	0
+Euplectella_aspergillum	0.000251512	1.27697e-05	51.9118	0
+Hyalonema_populiferum	0.000547726	7.10002e-05	19.8123	0
+Coeloplana_species	0.000283125	5.36359e-06	137.605	0
+Ephydatia_muelleri	9.00221e-05	9.61663e-06	20.3353	0
+Latrunculia_apicalis	5.8696e-05	1.30642e-05	10.9569	0
+Stomolophus_meleagris	0.000113581	9.23233e-06	30.8393	0
+Oscarella_carmela	6.9883e-05	1.37276e-05	10.7485	0
+Petrosia_ficiformis	0.000169541	6.90738e-06	67.7728	0
+Salpingoeca_qvevrii_09	0.000400936	6.91649e-06	171.48	0
+Daphnia_pulex	6.5321e-05	1.11093e-05	16.972	0
+Trichoplax_adhaerens	0.000311401	8.16199e-06	118.958	0
+Acanthoeca_sp._10tr	0.00048802	1.01453e-05	159.829	0
+Beroe_sp.	0.000276205	6.53595e-05	10.8368	0
+Salpingoeca_punica_03	0.000327689	9.79602e-06	94.4291	0
+Periphylla_periphylla	0.000312591	3.74533e-05	28.1462	0
+Pirum_gemmata	0.000299486	5.61576e-05	16.8111	0
+Amoebidium_parasiticum_JAP72	0.000415118	2.99749e-05	48.7641	0
+Montastraea_faveolata	4.97416e-05	1.09027e-05	10.5254	0
+Capitella_teleta	3.61497e-05	7.06927e-06	11.2871	0
+Salpingoeca_roanoka_13	0.000296428	9.09054e-06	100.299	0
+Plumapathes_pennacea	4.72635e-05	1.20197e-05	8.9087	0
+Capsaspora_owczarzaki_atcc30864	0.000624662	2.92909e-05	93.5446	0
+Dryodora_glandiformis	9.90267e-05	9.79195e-06	27.1876	0
+Salpingoeca_macrocollata_06	0.000472906	1.01257e-05	148.829	0
+Cestum_veneris	0.000290491	4.91492e-05	20.1335	0
+Nematostella_vectensis	2.67272e-05	8.30634e-06	6.71935	0
+Sympagella_nux	0.000217331	8.52014e-06	70.037	0
+Chondrilla_nucula	9.06103e-05	2.00543e-05	9.64015	0
+Antipathes_caribbeana	5.57631e-05	1.34487e-05	10.491	0
+Stephanoeca_diplocostata_AUFR	0.000307803	9.65954e-06	94.2174	0
+Leuconia_nivea	0.000164913	1.97509e-05	21.3677	0
+Sycon_coactum	0.000209681	1.57807e-05	35.5443	0
+Atolla_vanhoeffeni	0.00017284	1.59746e-05	27.0668	0
+Creolimax_fragrantissima	0.000165121	5.12219e-05	8.78193	0
+Lampea_pancerina	0.000254412	5.69662e-06	114.41	0
+Mycale_phyllophila	4.73155e-05	1.09656e-05	10.2395	0
+Grantia_compressa	0.000154482	1.71355e-05	22.1299	0
+Bolocera_tuedia	7.79583e-05	1.44173e-05	14.9805	0
+Homo_sapiens	9.26057e-05	8.90567e-06	28.2935	0
+Branchiostoma_floridae	6.33184e-05	6.14231e-06	25.9492	0
+Hormiphora_californensis	5.32803e-05	8.47467e-06	16.0178	0
+Ircinia_fasciculata	8.4597e-05	1.86724e-05	9.77307	0
+Aiptasia_pallida	6.26999e-05	7.48592e-06	21.6274	0
+Crassostrea_gigas	0.000137676	6.98826e-06	51.2973	0
+Diaphanoeca_grandis_RI_01	8.71309e-05	9.26744e-06	24.8779	0
+Helobdella_robusta	0.000291854	8.22291e-06	98.6764	0
+Kirkpatrickia_variolosa	4.53392e-05	8.11263e-06	13.2054	0
+Corticium_candelabrum	0.000121136	1.53458e-05	22.9186	0
+Vallicula_multiformis	0.000142225	5.54811e-06	66.5459	0
+Ixodes_scapularis	0.00035251	1.66427e-05	69.9619	0
+Monosiga_brevicollis_mx1	0.000812342	1.31612e-05	193.576	0
+Alatina_alata	8.71636e-05	1.07721e-05	20.4597	0
+Tribolium_castaneum	0.000123474	8.30772e-06	43.8669	0
+Porites_australiensis	4.66045e-05	1.37603e-05	7.20479	0
+Pleraplysilla_spinifera	5.9714e-05	1.10786e-05	12.3984	0
+Salpingoeca_infusionum_12	0.000396292	1.61369e-05	77.6711	0
+Leucosolenia_complicata	0.000215575	2.29686e-05	25.2598	0
+Salpingoeca_helianthica_18	0.00116463	1.32952e-05	290.709	0
+Saccoglossus_kowalevskii	7.22897e-05	5.92676e-06	34.799	0
+Mylnosiga_fluctuans_19	0.000978491	1.01809e-05	291.173	0
+Sphaeroforma_arctica_JP610	0.000164015	4.15617e-05	10.225	0
+Salpingoeca_urceolata_04	0.000589232	8.76554e-06	181.279	0
+Salpingoeca_rosetta	0.000496204	7.68273e-06	176.828	0
+Pelagia_noctiluca	0.000169492	1.6867e-05	25.3658	0
