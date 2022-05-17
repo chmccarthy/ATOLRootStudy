@@ -1,4 +1,5 @@
 # ATOLRootStudy
+![DOI](https://zenodo.org/badge/433194180.svg)](https://zenodo.org/badge/latestdoi/433194180)
 This repository contains datasets, scripts and supplementary material from:
 Charley GP McCarthy, Peter O Mulhair, Karen Siu-Ting, Christopher J Creevey and Mary J O’Connell. Hidden paralogy inflates dataset size and compromises model fit in datasets addressing the root of the animal tree of life. Mol. Biol. Evol., revision submitted.
 
