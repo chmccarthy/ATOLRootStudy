@@ -70,11 +70,11 @@ pics$name <- rownames(pics)
 pics$uid <- c("839b9df7-c97f-444a-a611-95609e950960", "87e2d814-56f7-45bc-82e3-bed99c8c7f3a", "dfc37b82-ff17-4866-abf9-1c405a202a13",
             "3449d9ef-2900-4309-bf22-5262c909344b", "7ca79f27-b79b-4d24-8c22-c30a4c272749")
 
-t1 <- fig6a(chang2015f, "chang15/clans.txt", c("Ministeria_vibrans", "Capsaspora_owczarzaki", "Sphaeroforma_arctica", "Amoebidium_parasiticum"), "Chang2015_filtered")
-t2 <- fig6a(wheland10f, "whe15/clans.txt", c("Mortierella_verticillata", "Rhizopus_oryzae", "Spizellomyces_punctatus", "Allomyces_macrogynus"), "Whelan2015_D10_filtered")
-t3 <- fig6a(wheland20f, "d20/clans.txt", c("Mortierella_verticillata", "Rhizopus_oryzae", "Spizellomyces_punctatus", "Allomyces_macrogynus"), "Whelan2015_D20_filtered")
-t4 <- fig6a(simion2017f, "sim17/clans.txt", c("Pirum_gemmata", "Abeoforma_whisleri", "Amoebidium_parasiticum", "Creolimax_fragrantissima", "Sphaeroforma_arctica"), "Simion2017_filtered")
-t5 <- fig6a(whelan17f, "whe17/clans.txt", c("Monosiga_ovata", "Salpingoeca_pyxidium", "Salpingoeca_rosetta", "Monosiga_brevicolis", "Acanthoeca_sp"), "Whelan2017_MCRS_filtered")
+t1 <- fig6a(chang2015f, "chang15/clans.txt", c("Ministeria_vibrans", "Capsaspora_owczarzaki", "Sphaeroforma_arctica", "Amoebidium_parasiticum"), "Chang2015_filtered\n(Outgroups: Holozoa, Choanoflagellates)")
+t2 <- fig6a(wheland10f, "whe15/clans.txt", c("Mortierella_verticillata", "Rhizopus_oryzae", "Spizellomyces_punctatus", "Allomyces_macrogynus"), "Whelan2015_D10_filtered\n(Outgroups: Fungi, Holozoa, Choanoflagellates)")
+t3 <- fig6a(wheland20f, "d20/clans.txt", c("Mortierella_verticillata", "Rhizopus_oryzae", "Spizellomyces_punctatus", "Allomyces_macrogynus"), "Whelan2015_D20_filtered\n(Outgroups: Fungi, Holozoa, Choanoflagellates)")
+t4 <- fig6a(simion2017f, "sim17/clans.txt", c("Pirum_gemmata", "Abeoforma_whisleri", "Amoebidium_parasiticum", "Creolimax_fragrantissima", "Sphaeroforma_arctica"), "Simion2017_filtered\n(Outgroups: Holozoa, Choanoflagellates)")
+t5 <- fig6a(whelan17f, "whe17/clans.txt", c("Monosiga_ovata", "Salpingoeca_pyxidium", "Salpingoeca_rosetta", "Monosiga_brevicolis", "Acanthoeca_sp"), "Whelan2017_MCRS_filtered\n(Outgroups: Choanoflagellates)")
 
 h1 <- fig6a(d10holo, "d10holocans.txt", c("Sphaeroforma_arctica", "Amoebidium_sp"), "Whelan2015_D10_filteredHolo")
 h2 <- fig6a(d20holo, "d10holocans.txt", c("Sphaeroforma_arctica", "Amoebidium_sp"), "Whelan2015_D20_filteredHolo")
