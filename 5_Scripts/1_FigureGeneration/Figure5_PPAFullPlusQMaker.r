@@ -58,7 +58,7 @@ o <- subset(f, Statistic == "PPA-DIV")
 g1 <- ggplot(o, aes(x=Replicate, y=Status, group=Status)) + geom_density_ridges(scale = 0.8, fill = "lightblue") +
   geom_segment(aes(x = Obs, y = as.numeric(Status) + 0.2, xend = Obs, yend = Status),
                colour = "red", stat = "unique", arrow = arrow(length = unit(0.2, "cm"))) +
-  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.7,
+  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.4,
                 label = paste0("|Z| = ", as.character(abs(round(Z, 2))))),
                 stat = "unique", colour = "black", hjust="inward") +
   facet_grid(rows = vars(Statistic), cols = vars(Dataset), scales="free") +
@@ -70,7 +70,7 @@ o <- subset(f, Statistic == "PPA-CONV")
 g2 <- ggplot(o, aes(x=Replicate, y=Status, group=Status)) + geom_density_ridges(scale = 0.8, fill = "lightblue") +
   geom_segment(aes(x = Obs, y = as.numeric(Status) + 0.2, xend = Obs, yend = Status),
                colour = "red", stat = "unique", arrow = arrow(length = unit(0.2, "cm"))) +
-  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.7,
+  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.4,
                  label = paste0("|Z| = ", as.character(abs(round(Z, 2))))),
              stat = "unique", colour = "black", hjust="inward") +
   facet_grid(rows = vars(Statistic), cols = vars(Dataset), scales="free") +
@@ -82,7 +82,7 @@ o <- subset(f, Statistic == "PPA-VAR")
 g3 <- ggplot(o, aes(x=Replicate, y=Status, group=Status)) + geom_density_ridges(scale = 0.8, fill = "lightblue") +
   geom_segment(aes(x = Obs, y = as.numeric(Status) + 0.2, xend = Obs, yend = Status),
                colour = "red", stat = "unique", arrow = arrow(length = unit(0.2, "cm"))) +
-  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.7,
+  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.4,
                  label = paste0("|Z| = ", as.character(abs(round(Z, 2))))),
              stat = "unique", colour = "black", hjust="inward") +
   facet_grid(rows = vars(Statistic), cols = vars(Dataset), scales="free") +
@@ -94,7 +94,7 @@ o <- subset(f, Statistic == "PPA-MAX")
 g4 <- ggplot(o, aes(x=Replicate, y=Status, group=Status)) + geom_density_ridges(scale = 0.8, fill = "lightblue") +
   geom_segment(aes(x = Obs, y = as.numeric(Status) + 0.2, xend = Obs, yend = Status),
                colour = "red", stat = "unique", arrow = arrow(length = unit(0.2, "cm"))) +
-  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.7,
+  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.4,
                  label = paste0("|Z| = ", as.character(abs(round(Z, 2))))),
              stat = "unique", colour = "black", hjust="inward") +
   facet_grid(rows = vars(Statistic), cols = vars(Dataset), scales="free") +
@@ -107,7 +107,7 @@ o <- subset(f, Statistic == "PPA-MEAN")
 g5 <- ggplot(o, aes(x=Replicate, y=Status, group=Status)) + geom_density_ridges(scale = 0.8, fill = "lightblue") +
   geom_segment(aes(x = Obs, y = as.numeric(Status) + 0.2, xend = Obs, yend = Status),
                colour = "red", stat = "unique", arrow = arrow(length = unit(0.2, "cm"))) +
-  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.7,
+  geom_label(aes(x = Obs, y = as.numeric(Status) + 0.4,
                  label = paste0("|Z| = ", as.character(abs(round(Z, 2))))),
              stat = "unique", colour = "black", hjust="inward") +
   facet_grid(rows = vars(Statistic), cols = vars(Dataset), scales="free") +
@@ -136,7 +136,7 @@ g <- ggplot(m, aes(x=Status, y=value, fill=variable)) + geom_bar(position="fill"
   labs(x = "Subset", y = "% of test OGs with best-fit substitution model (BIC)") + scale_y_continuous(labels = scales::percent)
 
 # Plot PPA-DIV and MAX plots alongside QMaker plot.
-plot(g1 / g4 | g) + plot_layout(widths = c(2,1))
+plot(g1 / g4 | g) + plot_layout(widths = c(1.5,1.25))
 
 # Plot other PPA results.
 plot(g2 / g3 / g5)

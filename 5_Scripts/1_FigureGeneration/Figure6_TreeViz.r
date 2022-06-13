@@ -17,6 +17,7 @@ d20holo <- read.tree("D20_Holo.tre")
 changcho <- read.tree("Chang2015Cho.tre")
 d10cho <- read.tree("D10Cho.tre")
 d20cho <- read.tree("D20Cho.tre")
+sicho <- read.tree("Simion2017_FilteredChoano.bpcomp.con.tre")
 
 fig6a <- function(tree, clans, rooting, title, endlabel=FALSE) {
     c <- readLines(clans)
@@ -35,16 +36,18 @@ fig6a <- function(tree, clans, rooting, title, endlabel=FALSE) {
 
     clades <- c()
     for(i in 1:length(l)) {
+        print(l[[i]])
         clades[i] <- MRCA(g1, l[[i]])
+        print(clades[i])
     }
 
-    g1$node.label[g1$node.label == "1"] <- ""
+    #g1$node.label[g1$node.label == "1"] <- ""
 
     g <- ggtree(g1, aes(color=group)) + geom_tiplab() + scale_color_manual(values=scale) + theme(legend.position = "none")
 
-    g$data$label[is.na(as.numeric(g$data$label))] <- ""
+    #g$data$label[is.na(as.numeric(g$data$label))] <- ""
 
-    g <- g + geom_label_repel(aes(label=label, color="0"), max.overlaps = Inf, box.padding = 1)
+   # g <- g + geom_label_repel(aes(label=label, color="0"), max.overlaps = Inf, box.padding = 1)
 
     if(endlabel){
         for(i in 1:length(clades)){
@@ -56,7 +59,7 @@ fig6a <- function(tree, clans, rooting, title, endlabel=FALSE) {
             }
         }
     }
-    g <- g + xlab(title)
+    g <- g + geom_tiplab() + geom_nodelab(hjust=0.5) + hexpand(0.5)
     return(g)
 }
 
@@ -82,10 +85,11 @@ h2 <- fig6a(d20holo, "d10holocans.txt", c("Sphaeroforma_arctica", "Amoebidium_sp
 c1 <- fig6a(changcho, "changchoclans.txt", c("Acanthoeca_sp", "Stephanoeca_diplocostata", "Monosiga_brevicollis", "Monosiga_ovata", "Salpingoeca_sp"), "Chang2015_filteredChoano")
 c2 <- fig6a(d10cho, "d10choclans.txt", c("Monosiga_ovata", "Salpingoeca_rosetta"), "Whelan2015_D10_filteredChoano")
 c3 <- fig6a(d20cho, "d10choclans.txt", c("Monosiga_ovata", "Salpingoeca_rosetta"), "Whelan2015_D20_filteredChoano")
+c4 <- fig6a(sicho, "sichoclans.txt", c("Acanthoeca_sp", "Acanthoeca_spectabilis"), "Simion2017_filteredChoano")
 
 p1 <- (t1 + t2 + t3 + t4 + t5) + plot_layout(nrow=1, ncol=5) + plot_annotation(title="(a) CAT-GTR+G phylogenies of filtered AToL datasets.")
 p2 <- (t1 + h1 + h2 + t4) + plot_layout(nrow=1, ncol=5) + plot_annotation(title="(b) CAT-GTR+G phylogenies of filtered AToL datasets with Holozoan+Choanoflagellate outgroups (excl. Whelan2017_MCRS_filtered).")
-p3 <- (c1 + c2 + c3 + t4 + t5) + plot_layout(nrow=1, ncol=5) + plot_annotation(title="(c) CAT-GTR+G phylogenies of filtered AToL datasets with Choanoflagellate outgroups (note: yet to get Simion2017_filteredChoano tree).")
+p3 <- (c1 + c2 + c3 + c4 + t5) + plot_layout(nrow=1, ncol=5) + plot_annotation(title="(c) CAT-GTR+G phylogenies of filtered AToL datasets with Choanoflagellate-only outgroups.")
 
 pp <- wrap_elements(p1) / wrap_elements(p2) / wrap_elements(p3)
 plot(pp)
