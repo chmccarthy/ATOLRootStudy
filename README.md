@@ -2,9 +2,7 @@
 [![DOI](https://zenodo.org/badge/433194180.svg)](https://zenodo.org/badge/latestdoi/433194180)
 
 This repository contains datasets, scripts and supplementary material from:
-Charley GP McCarthy, Peter O Mulhair, Karen Siu-Ting, Christopher J Creevey and Mary J O’Connell. AToL Root Study (title to be finalized). Mol. Biol. Evol., revision submitted.
-
-Please note: as of writing (May 17, 2022) this repository is not 100% completed.
+Charley GP McCarthy, Peter O Mulhair, Karen Siu-Ting, Christopher J Creevey and Mary J O’Connell. AToL root manuscript (title to be finalized).
 
 # 1_Datasets
 This folder contains data and results files associated with the primary datasets analyzed in this study arranged into subfolders: the dataset from Chang et al. (2015), two datasets (Datasets 10 and 20) from Whelan et al. (2015), the full dataset from Simion et al. (2017) and the "Metazoa_Choano_RCFV_strict" dataset from Whelan et al. (2017). Each subfolder (**1_Chang2015** &c.) has an identical layout described below.
